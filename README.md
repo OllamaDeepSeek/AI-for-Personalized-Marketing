@@ -8,6 +8,8 @@ Automated Content Creation for Marketing: Tools that generate tailored marketing
 ![image](https://github.com/user-attachments/assets/517424fb-c670-47bc-bbaa-6e8e11592e61)
 ![image](https://github.com/user-attachments/assets/2fbc14eb-ac0b-4702-b39e-215f1dffe0e5)
 ![image](https://github.com/user-attachments/assets/65ee9ae4-6d41-4d7a-8f5a-9e190f63501a)
+![image](https://github.com/user-attachments/assets/b390aaa9-1738-46fa-b3e2-af11f983ed11)
+
 
 
 ## React + TypeScript + Vite
