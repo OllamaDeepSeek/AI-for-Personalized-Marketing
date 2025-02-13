@@ -1,4 +1,14 @@
-# React + TypeScript + Vite
+# AI for Personalized Marketing
+## Hyper-Personalized Ad Campaigns: AI systems that analyze user behavior and preferences to create highly targeted marketing campaigns, optimizing ads for maximum engagement and conversion.
+## Automated Content Creation for Marketing: Tools that generate tailored marketing content based on user data, trends, and campaign goals, streamlining content production.
+## 
+
+
+
+![image](https://github.com/user-attachments/assets/517424fb-c670-47bc-bbaa-6e8e11592e61)
+![image](https://github.com/user-attachments/assets/2fbc14eb-ac0b-4702-b39e-215f1dffe0e5)
+
+## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
